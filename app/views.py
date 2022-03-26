@@ -9,6 +9,8 @@ import string
 import pytesseract
 from pytesseract import Output
 
+pytesseract.pytesseract.tesseract_cmd = '/app/.apt/usr/bin/tesseract'
+
 app.config['INITIAL_FILE_UPLOADS'] = 'app/static/uploads'
 
 @app.route("/", methods=["GET", "POST"])

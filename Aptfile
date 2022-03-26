@@ -1,0 +1,10 @@
+tesseract-ocr
+tesserect-ocr-eng
+libsm6
+libxrender1
+libfontconfig1
+libice6
+libatlas-base-dev
+libjasper-dev
+libqtgui4
+python3-pyqt5
