@@ -1,7 +1,4 @@
 libglu1
-libleptonica-dev 
 tesseract-ocr 
-libtesseract-dev 
-python3-pil 
-tesseract-ocr-eng 
-tesseract-ocr-script-latn
+tesseract-ocr-eng
+tesseract-ocr-deu
